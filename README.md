@@ -346,7 +346,7 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **1.** Скачиваем **«Throne»** — [Windows 10/11](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-windows64-installer.exe) / [Windows 7/8/8.1](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-windowslegacy64.zip) / [Linux](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-linux-amd64.zip)
 
-**2.** Копируем в буфер обмена: 
+**2.** Копируем в буфер обмена всю страницу: 
 
 > Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
@@ -385,7 +385,7 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **4.** Выделяем все конфиги комбинацией клавиш **«Ctrl + A»**, нажимаем **«Профили»** в верхнем меню, а затем **«Тест задержки (пинга) выбранного профиля»** и дожидаемся окончания теста (во вкладке **«Логи»** появится надпись **«Тест задержек (пинга) завершён!»**)
 
-**5.** Наживаем на кнопку колонки **«Задержка (пинг)»**.
+**5.** Сортируем по колонке **«Результат теста»** (Нажмите на соответствующую колонку).
 
 **6.** В верхней части окна программы активируйте опцию **«Режим TUN»**, установив галочку.
 
